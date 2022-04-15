@@ -43,7 +43,7 @@ Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
 
 #### Rede Sociais!
 
-🏡 [website][website] **|** 
+🏡 [website][website] **|** ## Visite meu site  www.lanzautomacao.com.br 
 <!-- 🐦 [twitter][twitter] **|** 
 📺 [youtube][youtube] **|** 
 📷 [instagram][instagram] **|** 
