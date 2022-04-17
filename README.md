@@ -26,11 +26,11 @@ Sou Marcos Lanzoni , amante de tecnologia e desenvolvimento de softwares
 
 ## **GitHub Estatísticas**
 
-<a href="https://github.com/Gurupreet">
+<a href="https://github.com/marcoscclanzoni">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcoscclanzoni&theme=dracula&hide_langs_below=1" />
 </a>
 
-<a href="https://github.com/Gurupreet">
+<a href="https://github.com/marcoscclanzoni">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=marcoscclanzoni&show_icons=true&theme=dracula&line_height=27" alt="Marcos Lanzoni github stats"/>
 </a>
 
